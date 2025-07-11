@@ -5,5 +5,6 @@ def square_evens(numbers: list[int]) -> list[int]:
     Example:
     >>> square_events([1, 2, 3, 4])
     [4, 16]
+
     """
     raise NotImplementedError("Implement this function")
